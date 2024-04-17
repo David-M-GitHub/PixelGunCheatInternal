@@ -3,7 +3,7 @@
 #include <assert.h>
 #include <cstdint>
 
-#include "../Module/Impl/ModuleAOEBullets.h"
+#include "../Module/Impl/combat/ModuleAOEBullets.h"
 
 struct Ray
 {

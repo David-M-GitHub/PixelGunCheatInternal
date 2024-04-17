@@ -2,6 +2,10 @@
 #include <string>
 #include "../Gui/imgui_hooker.h"
 
+/*
+ * ModuleBase is a base class for all modules in the cheat.
+ * It provides a common interface for all modules to be run and toggled.
+ */
 class ModuleBase
 {
 public:
